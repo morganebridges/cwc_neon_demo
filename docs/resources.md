@@ -1,0 +1,10 @@
+# Resources
+- [Demo Repository](https://github.com/morganebridges/cwc_neon_demo/blob/main/app/neon.ipynb)
+- [Neon Serverless Postgres](https://neon.tech/)
+- [kettQ Neon branching case study](https://neon.tech/blog/database-branching-for-postgres-with-neon)
+- [Branching and Multi-Tenancy in Neon](https://www.percona.com/blog/multi-tenants-and-branches-in-neon-serverless-postgresql/)
+- [Raft and Paxos for distributed Consensus algorithms](https://medium.com/@mani.saksham12/raft-and-paxos-consensus-algorithms-for-distributed-systems-138cd7c2d35a)
+- [Timeline for AWS evolution](https://en.wikipedia.org/wiki/Timeline_of_Amazon_Web_Services)
+- [Horizontal Pod Autoscaling](https://www.densify.com/kubernetes-autoscaling/kubernetes-hpa/)
+- [Quay minio - s3 Compatible portable storage engine](https://quay.io/organization/minio)
+- [Cost Effectiveness of serverless Postgres](https://trackit.io/aurora-and-aurora-serverless-which-is-more-cost-effective/)
