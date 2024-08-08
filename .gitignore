@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 
 
-neon-main/
+neon/
 
 node_modules/
 package-lock.json
